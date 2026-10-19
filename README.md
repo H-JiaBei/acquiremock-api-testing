@@ -51,4 +51,6 @@ pytest
 
 ## 许可证
 
-本项目为个人测试工程，与被测服务（AcquireMock，Apache-2.0）相互独立。
+本项目测试代码采用 [MIT License](LICENSE)，版权归 H-JiaBei 所有。
+
+被测对象 [AcquireMock](https://github.com/ashfromsky/acquiremock) 采用 Apache-2.0；本项目仅通过 HTTP 调用其接口并在文档中引用，未复制其源码，不构成其许可义务。
